@@ -16,7 +16,15 @@ if (triangle_area > rectangle_area) {
 
     console.log("The triangle has a bigger area");
 
+} else 
+
+   if (triangle_area < rectangle_area){
+    
+    console.log("The rectangle has a bigger area");
+
 } else {
 
-    console.log("The rectangle has a bigger area");
+    if (triangle_area = rectangle_area)
+    
+    console.log("The areas are equal")
 }
